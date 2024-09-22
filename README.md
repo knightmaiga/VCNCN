@@ -15,3 +15,7 @@ A model that integrates various AI techniques to simulate virtual consciousness,
 - TensorFlow
 - NetworkX
 - Transformers
+## Installation
+To install the required packages, run:
+```bash
+pip install -r requirements.txt
